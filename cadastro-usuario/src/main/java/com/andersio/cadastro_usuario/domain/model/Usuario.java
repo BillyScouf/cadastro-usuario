@@ -1,4 +1,4 @@
-package com.andersio.cadastro_usuario.domain;
+package com.andersio.cadastro_usuario.domain.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
